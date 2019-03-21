@@ -71,7 +71,7 @@ gdjs.Coming_32SoonCode.condition0IsTrue_0 = {val:false};
 gdjs.Coming_32SoonCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.Coming_32SoonCode.eventsList0x893210 = function(runtimeScene) {
+gdjs.Coming_32SoonCode.eventsList0x691bf8 = function(runtimeScene) {
 
 {
 
@@ -86,13 +86,13 @@ gdjs.Coming_32SoonCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }
 
 
-}; //End of gdjs.Coming_32SoonCode.eventsList0x893210
+}; //End of gdjs.Coming_32SoonCode.eventsList0x691bf8
 gdjs.Coming_32SoonCode.eventsList0xb25a8 = function(runtimeScene) {
 
 {
 
 
-gdjs.Coming_32SoonCode.eventsList0x893210(runtimeScene);
+gdjs.Coming_32SoonCode.eventsList0x691bf8(runtimeScene);
 }
 
 
