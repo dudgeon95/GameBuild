@@ -109,7 +109,7 @@ gdjs.CorridorCode.condition2IsTrue_0 = {val:false};
 gdjs.CorridorCode.condition3IsTrue_0 = {val:false};
 
 
-gdjs.CorridorCode.eventsList0x6f3600 = function(runtimeScene) {
+gdjs.CorridorCode.eventsList0x73f6e0 = function(runtimeScene) {
 
 {
 
@@ -123,8 +123,8 @@ gdjs.CorridorCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"))
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x6f3600
-gdjs.CorridorCode.eventsList0x6f3848 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x73f6e0
+gdjs.CorridorCode.eventsList0x73f8d0 = function(runtimeScene) {
 
 {
 
@@ -139,8 +139,8 @@ gdjs.CorridorCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x6f3848
-gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0x6f3ad0 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x73f8d0
+gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0x73fb78 = function(runtimeScene) {
 
 {
 
@@ -318,8 +318,8 @@ if (gdjs.CorridorCode.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x6f3ad0
-gdjs.CorridorCode.eventsList0x68fa60 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x73fb78
+gdjs.CorridorCode.eventsList0x741748 = function(runtimeScene) {
 
 {
 
@@ -354,34 +354,34 @@ gdjs.CorridorCode.GDSpeechTextObjects1.createFrom(runtimeScene.getObjects("Speec
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x68fa60
+}; //End of gdjs.CorridorCode.eventsList0x741748
 gdjs.CorridorCode.eventsList0xb25a8 = function(runtimeScene) {
 
 {
 
 
-gdjs.CorridorCode.eventsList0x6f3600(runtimeScene);
+gdjs.CorridorCode.eventsList0x73f6e0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0x6f3848(runtimeScene);
+gdjs.CorridorCode.eventsList0x73f8d0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0x6f3ad0(runtimeScene);
+gdjs.CorridorCode.eventsList0x73fb78(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0x68fa60(runtimeScene);
+gdjs.CorridorCode.eventsList0x741748(runtimeScene);
 }
 
 
