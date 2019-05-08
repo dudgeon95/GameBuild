@@ -65,6 +65,8 @@ gdjs.Coming_32SoonCode.GDMerchantObjects1= [];
 gdjs.Coming_32SoonCode.GDMerchantObjects2= [];
 gdjs.Coming_32SoonCode.GDAmmoBarObjects1= [];
 gdjs.Coming_32SoonCode.GDAmmoBarObjects2= [];
+gdjs.Coming_32SoonCode.GDAdminTextObjects1= [];
+gdjs.Coming_32SoonCode.GDAdminTextObjects2= [];
 gdjs.Coming_32SoonCode.GDNewObjectObjects1= [];
 gdjs.Coming_32SoonCode.GDNewObjectObjects2= [];
 gdjs.Coming_32SoonCode.GDStatsButtonObjects1= [];
@@ -82,7 +84,7 @@ gdjs.Coming_32SoonCode.condition1IsTrue_0 = {val:false};
 gdjs.Coming_32SoonCode.condition2IsTrue_0 = {val:false};
 
 
-gdjs.Coming_32SoonCode.eventsList0xc23eb0 = function(runtimeScene) {
+gdjs.Coming_32SoonCode.eventsList0x6fa1c0 = function(runtimeScene) {
 
 {
 
@@ -97,13 +99,13 @@ gdjs.Coming_32SoonCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }
 
 
-}; //End of gdjs.Coming_32SoonCode.eventsList0xc23eb0
+}; //End of gdjs.Coming_32SoonCode.eventsList0x6fa1c0
 gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.Coming_32SoonCode.GDMenuButtonObjects1});gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDStatsButtonObjects1Objects = Hashtable.newFrom({"StatsButton": gdjs.Coming_32SoonCode.GDStatsButtonObjects1});gdjs.Coming_32SoonCode.eventsList0xb2a48 = function(runtimeScene) {
 
 {
 
 
-gdjs.Coming_32SoonCode.eventsList0xc23eb0(runtimeScene);
+gdjs.Coming_32SoonCode.eventsList0x6fa1c0(runtimeScene);
 }
 
 
@@ -225,6 +227,8 @@ gdjs.Coming_32SoonCode.GDMerchantObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDMerchantObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDAmmoBarObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDAmmoBarObjects2.length = 0;
+gdjs.Coming_32SoonCode.GDAdminTextObjects1.length = 0;
+gdjs.Coming_32SoonCode.GDAdminTextObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDNewObjectObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDNewObjectObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDStatsButtonObjects1.length = 0;

@@ -98,6 +98,9 @@ gdjs.CorridorCode.GDMerchantObjects3= [];
 gdjs.CorridorCode.GDAmmoBarObjects1= [];
 gdjs.CorridorCode.GDAmmoBarObjects2= [];
 gdjs.CorridorCode.GDAmmoBarObjects3= [];
+gdjs.CorridorCode.GDAdminTextObjects1= [];
+gdjs.CorridorCode.GDAdminTextObjects2= [];
+gdjs.CorridorCode.GDAdminTextObjects3= [];
 gdjs.CorridorCode.GDTrapdoorObjects1= [];
 gdjs.CorridorCode.GDTrapdoorObjects2= [];
 gdjs.CorridorCode.GDTrapdoorObjects3= [];
@@ -112,7 +115,7 @@ gdjs.CorridorCode.condition2IsTrue_0 = {val:false};
 gdjs.CorridorCode.condition3IsTrue_0 = {val:false};
 
 
-gdjs.CorridorCode.eventsList0xb466b8 = function(runtimeScene) {
+gdjs.CorridorCode.eventsList0x6fa1c0 = function(runtimeScene) {
 
 {
 
@@ -126,8 +129,8 @@ gdjs.CorridorCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"))
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xb466b8
-gdjs.CorridorCode.eventsList0xb46880 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x6fa1c0
+gdjs.CorridorCode.eventsList0x8ae248 = function(runtimeScene) {
 
 {
 
@@ -142,8 +145,8 @@ gdjs.CorridorCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xb46880
-gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0xb45e78 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x8ae248
+gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0x8a9040 = function(runtimeScene) {
 
 {
 
@@ -171,8 +174,8 @@ gdjs.CorridorCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xb45e78
-gdjs.CorridorCode.eventsList0xc23eb0 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x8a9040
+gdjs.CorridorCode.eventsList0x67d780 = function(runtimeScene) {
 
 {
 
@@ -359,14 +362,14 @@ gdjs.CorridorCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 if (gdjs.CorridorCode.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.CorridorCode.eventsList0xb45e78(runtimeScene);} //End of subevents
+gdjs.CorridorCode.eventsList0x8a9040(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xc23eb0
-gdjs.CorridorCode.eventsList0x694808 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x67d780
+gdjs.CorridorCode.eventsList0x6fefe0 = function(runtimeScene) {
 
 {
 
@@ -401,34 +404,34 @@ gdjs.CorridorCode.GDSpeechTextObjects1.createFrom(runtimeScene.getObjects("Speec
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x694808
+}; //End of gdjs.CorridorCode.eventsList0x6fefe0
 gdjs.CorridorCode.eventsList0xb2a48 = function(runtimeScene) {
 
 {
 
 
-gdjs.CorridorCode.eventsList0xb466b8(runtimeScene);
+gdjs.CorridorCode.eventsList0x6fa1c0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0xb46880(runtimeScene);
+gdjs.CorridorCode.eventsList0x8ae248(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0xc23eb0(runtimeScene);
+gdjs.CorridorCode.eventsList0x67d780(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0x694808(runtimeScene);
+gdjs.CorridorCode.eventsList0x6fefe0(runtimeScene);
 }
 
 
@@ -558,6 +561,9 @@ gdjs.CorridorCode.GDMerchantObjects3.length = 0;
 gdjs.CorridorCode.GDAmmoBarObjects1.length = 0;
 gdjs.CorridorCode.GDAmmoBarObjects2.length = 0;
 gdjs.CorridorCode.GDAmmoBarObjects3.length = 0;
+gdjs.CorridorCode.GDAdminTextObjects1.length = 0;
+gdjs.CorridorCode.GDAdminTextObjects2.length = 0;
+gdjs.CorridorCode.GDAdminTextObjects3.length = 0;
 gdjs.CorridorCode.GDTrapdoorObjects1.length = 0;
 gdjs.CorridorCode.GDTrapdoorObjects2.length = 0;
 gdjs.CorridorCode.GDTrapdoorObjects3.length = 0;
