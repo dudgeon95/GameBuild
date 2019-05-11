@@ -153,7 +153,7 @@ gdjs.Start_32PageCode.condition1IsTrue_0 = {val:false};
 gdjs.Start_32PageCode.condition2IsTrue_0 = {val:false};
 
 
-gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDPlayButtonObjects1Objects = Hashtable.newFrom({"PlayButton": gdjs.Start_32PageCode.GDPlayButtonObjects1});gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDHelpButtonObjects1Objects = Hashtable.newFrom({"HelpButton": gdjs.Start_32PageCode.GDHelpButtonObjects1});gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDAboutButtonObjects1Objects = Hashtable.newFrom({"AboutButton": gdjs.Start_32PageCode.GDAboutButtonObjects1});gdjs.Start_32PageCode.eventsList0xae6a10 = function(runtimeScene) {
+gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDPlayButtonObjects1Objects = Hashtable.newFrom({"PlayButton": gdjs.Start_32PageCode.GDPlayButtonObjects1});gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDHelpButtonObjects1Objects = Hashtable.newFrom({"HelpButton": gdjs.Start_32PageCode.GDHelpButtonObjects1});gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDAboutButtonObjects1Objects = Hashtable.newFrom({"AboutButton": gdjs.Start_32PageCode.GDAboutButtonObjects1});gdjs.Start_32PageCode.eventsList0x93a448 = function(runtimeScene) {
 
 {
 
@@ -242,7 +242,7 @@ gdjs.Start_32PageCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Playe
 }
 
 
-}; //End of gdjs.Start_32PageCode.eventsList0xae6a10
+}; //End of gdjs.Start_32PageCode.eventsList0x93a448
 gdjs.Start_32PageCode.mapOfGDgdjs_46Start_9532PageCode_46GDBackButtonObjects1Objects = Hashtable.newFrom({"BackButton": gdjs.Start_32PageCode.GDBackButtonObjects1});gdjs.Start_32PageCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
@@ -321,7 +321,7 @@ gdjs.Start_32PageCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJ
 {
 
 
-gdjs.Start_32PageCode.eventsList0xae6a10(runtimeScene);
+gdjs.Start_32PageCode.eventsList0x93a448(runtimeScene);
 }
 
 
