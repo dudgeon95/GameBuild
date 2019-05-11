@@ -9,6 +9,8 @@ gdjs.Coming_32SoonCode.GDDoorObjects1= [];
 gdjs.Coming_32SoonCode.GDDoorObjects2= [];
 gdjs.Coming_32SoonCode.GDSkullObjects1= [];
 gdjs.Coming_32SoonCode.GDSkullObjects2= [];
+gdjs.Coming_32SoonCode.GDLavaBarrierObjects1= [];
+gdjs.Coming_32SoonCode.GDLavaBarrierObjects2= [];
 gdjs.Coming_32SoonCode.GDWallBarrierObjects1= [];
 gdjs.Coming_32SoonCode.GDWallBarrierObjects2= [];
 gdjs.Coming_32SoonCode.GDGameOverObjects1= [];
@@ -84,7 +86,7 @@ gdjs.Coming_32SoonCode.condition1IsTrue_0 = {val:false};
 gdjs.Coming_32SoonCode.condition2IsTrue_0 = {val:false};
 
 
-gdjs.Coming_32SoonCode.eventsList0x6fa1c0 = function(runtimeScene) {
+gdjs.Coming_32SoonCode.eventsList0xac7d90 = function(runtimeScene) {
 
 {
 
@@ -99,13 +101,13 @@ gdjs.Coming_32SoonCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }
 
 
-}; //End of gdjs.Coming_32SoonCode.eventsList0x6fa1c0
-gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.Coming_32SoonCode.GDMenuButtonObjects1});gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDStatsButtonObjects1Objects = Hashtable.newFrom({"StatsButton": gdjs.Coming_32SoonCode.GDStatsButtonObjects1});gdjs.Coming_32SoonCode.eventsList0xb2a48 = function(runtimeScene) {
+}; //End of gdjs.Coming_32SoonCode.eventsList0xac7d90
+gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.Coming_32SoonCode.GDMenuButtonObjects1});gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDStatsButtonObjects1Objects = Hashtable.newFrom({"StatsButton": gdjs.Coming_32SoonCode.GDStatsButtonObjects1});gdjs.Coming_32SoonCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.Coming_32SoonCode.eventsList0x6fa1c0(runtimeScene);
+gdjs.Coming_32SoonCode.eventsList0xac7d90(runtimeScene);
 }
 
 
@@ -156,7 +158,7 @@ if (gdjs.Coming_32SoonCode.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Coming_32SoonCode.eventsList0xb2a48
+}; //End of gdjs.Coming_32SoonCode.eventsList0xb2358
 
 
 gdjs.Coming_32SoonCode.func = function(runtimeScene) {
@@ -171,6 +173,8 @@ gdjs.Coming_32SoonCode.GDDoorObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDDoorObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDSkullObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDSkullObjects2.length = 0;
+gdjs.Coming_32SoonCode.GDLavaBarrierObjects1.length = 0;
+gdjs.Coming_32SoonCode.GDLavaBarrierObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDWallBarrierObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDWallBarrierObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDGameOverObjects1.length = 0;
@@ -240,7 +244,7 @@ gdjs.Coming_32SoonCode.GDStatsButtonTextObjects2.length = 0;
 gdjs.Coming_32SoonCode.GDMenuButtonTextObjects1.length = 0;
 gdjs.Coming_32SoonCode.GDMenuButtonTextObjects2.length = 0;
 
-gdjs.Coming_32SoonCode.eventsList0xb2a48(runtimeScene);
+gdjs.Coming_32SoonCode.eventsList0xb2358(runtimeScene);
 return;
 }
 gdjs['Coming_32SoonCode'] = gdjs.Coming_32SoonCode;
