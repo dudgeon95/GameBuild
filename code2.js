@@ -118,7 +118,7 @@ gdjs.CorridorCode.condition2IsTrue_0 = {val:false};
 gdjs.CorridorCode.condition3IsTrue_0 = {val:false};
 
 
-gdjs.CorridorCode.eventsList0xb04530 = function(runtimeScene) {
+gdjs.CorridorCode.eventsList0x93a468 = function(runtimeScene) {
 
 {
 
@@ -132,8 +132,8 @@ gdjs.CorridorCode.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player"))
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xb04530
-gdjs.CorridorCode.eventsList0x733238 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x93a468
+gdjs.CorridorCode.eventsList0xd234a0 = function(runtimeScene) {
 
 {
 
@@ -148,8 +148,8 @@ gdjs.CorridorCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x733238
-gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0x69d3a8 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0xd234a0
+gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.CorridorCode.GDPlayerObjects2});gdjs.CorridorCode.mapOfGDgdjs_46CorridorCode_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.CorridorCode.GDDoorObjects2});gdjs.CorridorCode.eventsList0x923a48 = function(runtimeScene) {
 
 {
 
@@ -177,8 +177,8 @@ gdjs.CorridorCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0x69d3a8
-gdjs.CorridorCode.eventsList0xae5648 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x923a48
+gdjs.CorridorCode.eventsList0x939148 = function(runtimeScene) {
 
 {
 
@@ -365,14 +365,14 @@ gdjs.CorridorCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumbe
 if (gdjs.CorridorCode.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.CorridorCode.eventsList0x69d3a8(runtimeScene);} //End of subevents
+gdjs.CorridorCode.eventsList0x923a48(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xae5648
-gdjs.CorridorCode.eventsList0xacd590 = function(runtimeScene) {
+}; //End of gdjs.CorridorCode.eventsList0x939148
+gdjs.CorridorCode.eventsList0x7e96a8 = function(runtimeScene) {
 
 {
 
@@ -407,34 +407,34 @@ gdjs.CorridorCode.GDSpeechTextObjects1.createFrom(runtimeScene.getObjects("Speec
 }
 
 
-}; //End of gdjs.CorridorCode.eventsList0xacd590
+}; //End of gdjs.CorridorCode.eventsList0x7e96a8
 gdjs.CorridorCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.CorridorCode.eventsList0xb04530(runtimeScene);
+gdjs.CorridorCode.eventsList0x93a468(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0x733238(runtimeScene);
+gdjs.CorridorCode.eventsList0xd234a0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0xae5648(runtimeScene);
+gdjs.CorridorCode.eventsList0x939148(runtimeScene);
 }
 
 
 {
 
 
-gdjs.CorridorCode.eventsList0xacd590(runtimeScene);
+gdjs.CorridorCode.eventsList0x7e96a8(runtimeScene);
 }
 
 

@@ -86,7 +86,7 @@ gdjs.Coming_32SoonCode.condition1IsTrue_0 = {val:false};
 gdjs.Coming_32SoonCode.condition2IsTrue_0 = {val:false};
 
 
-gdjs.Coming_32SoonCode.eventsList0x886e78 = function(runtimeScene) {
+gdjs.Coming_32SoonCode.eventsList0xae68e8 = function(runtimeScene) {
 
 {
 
@@ -101,13 +101,13 @@ gdjs.Coming_32SoonCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }
 
 
-}; //End of gdjs.Coming_32SoonCode.eventsList0x886e78
+}; //End of gdjs.Coming_32SoonCode.eventsList0xae68e8
 gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.Coming_32SoonCode.GDMenuButtonObjects1});gdjs.Coming_32SoonCode.mapOfGDgdjs_46Coming_9532SoonCode_46GDStatsButtonObjects1Objects = Hashtable.newFrom({"StatsButton": gdjs.Coming_32SoonCode.GDStatsButtonObjects1});gdjs.Coming_32SoonCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.Coming_32SoonCode.eventsList0x886e78(runtimeScene);
+gdjs.Coming_32SoonCode.eventsList0xae68e8(runtimeScene);
 }
 
 
