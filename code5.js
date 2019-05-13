@@ -314,7 +314,7 @@ gdjs.MiniGame1Code.condition1IsTrue_1 = {val:false};
 gdjs.MiniGame1Code.condition2IsTrue_1 = {val:false};
 
 
-gdjs.MiniGame1Code.eventsList0xae68e8 = function(runtimeScene) {
+gdjs.MiniGame1Code.eventsList0x7f0590 = function(runtimeScene) {
 
 {
 
@@ -331,8 +331,8 @@ gdjs.MiniGame1Code.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player")
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xae68e8
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint1Objects2Objects = Hashtable.newFrom({"Checkpoint1": gdjs.MiniGame1Code.GDCheckpoint1Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint1Objects2Objects = Hashtable.newFrom({"Checkpoint1": gdjs.MiniGame1Code.GDCheckpoint1Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint2Objects2Objects = Hashtable.newFrom({"Checkpoint2": gdjs.MiniGame1Code.GDCheckpoint2Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint2Objects2Objects = Hashtable.newFrom({"Checkpoint2": gdjs.MiniGame1Code.GDCheckpoint2Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint3Objects2Objects = Hashtable.newFrom({"Checkpoint3": gdjs.MiniGame1Code.GDCheckpoint3Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint3Objects2Objects = Hashtable.newFrom({"Checkpoint3": gdjs.MiniGame1Code.GDCheckpoint3Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint4Objects2Objects = Hashtable.newFrom({"Checkpoint4": gdjs.MiniGame1Code.GDCheckpoint4Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint4Objects2Objects = Hashtable.newFrom({"Checkpoint4": gdjs.MiniGame1Code.GDCheckpoint4Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.MiniGame1Code.GDDoorObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects1Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDDoorObjects1Objects = Hashtable.newFrom({"Door": gdjs.MiniGame1Code.GDDoorObjects1});gdjs.MiniGame1Code.eventsList0x982210 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x7f0590
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint1Objects2Objects = Hashtable.newFrom({"Checkpoint1": gdjs.MiniGame1Code.GDCheckpoint1Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint1Objects2Objects = Hashtable.newFrom({"Checkpoint1": gdjs.MiniGame1Code.GDCheckpoint1Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint2Objects2Objects = Hashtable.newFrom({"Checkpoint2": gdjs.MiniGame1Code.GDCheckpoint2Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint2Objects2Objects = Hashtable.newFrom({"Checkpoint2": gdjs.MiniGame1Code.GDCheckpoint2Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint3Objects2Objects = Hashtable.newFrom({"Checkpoint3": gdjs.MiniGame1Code.GDCheckpoint3Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint3Objects2Objects = Hashtable.newFrom({"Checkpoint3": gdjs.MiniGame1Code.GDCheckpoint3Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint4Objects2Objects = Hashtable.newFrom({"Checkpoint4": gdjs.MiniGame1Code.GDCheckpoint4Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDCheckpoint4Objects2Objects = Hashtable.newFrom({"Checkpoint4": gdjs.MiniGame1Code.GDCheckpoint4Objects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.MiniGame1Code.GDDoorObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects1Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDDoorObjects1Objects = Hashtable.newFrom({"Door": gdjs.MiniGame1Code.GDDoorObjects1});gdjs.MiniGame1Code.eventsList0x902450 = function(runtimeScene) {
 
 {
 
@@ -565,8 +565,8 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisi
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x982210
-gdjs.MiniGame1Code.eventsList0x939388 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x902450
+gdjs.MiniGame1Code.eventsList0x948aa8 = function(runtimeScene) {
 
 {
 
@@ -609,14 +609,14 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 }if (gdjs.MiniGame1Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x982210(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x902450(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x939388
-gdjs.MiniGame1Code.eventsList0x99e578 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x948aa8
+gdjs.MiniGame1Code.eventsList0xbba800 = function(runtimeScene) {
 
 {
 
@@ -717,8 +717,8 @@ gdjs.MiniGame1Code.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player")
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x99e578
-gdjs.MiniGame1Code.eventsList0x99e4a0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xbba800
+gdjs.MiniGame1Code.eventsList0xbba728 = function(runtimeScene) {
 
 {
 
@@ -729,14 +729,14 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 }if (gdjs.MiniGame1Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x99e578(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0xbba800(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x99e4a0
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDStartObjects1Objects = Hashtable.newFrom({"Start": gdjs.MiniGame1Code.GDStartObjects1});gdjs.MiniGame1Code.eventsList0xc1ac98 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xbba728
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDStartObjects1Objects = Hashtable.newFrom({"Start": gdjs.MiniGame1Code.GDStartObjects1});gdjs.MiniGame1Code.eventsList0xa9c180 = function(runtimeScene) {
 
 {
 
@@ -788,8 +788,8 @@ gdjs.MiniGame1Code.GDPriestSpeechObjects1.createFrom(runtimeScene.getObjects("Pr
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xc1ac98
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects1Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects1});gdjs.MiniGame1Code.eventsList0xacd710 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xa9c180
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects1Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects1});gdjs.MiniGame1Code.eventsList0xbb7fc8 = function(runtimeScene) {
 
 {
 
@@ -915,8 +915,8 @@ if (gdjs.MiniGame1Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xacd710
-gdjs.MiniGame1Code.eventsList0x68c2b0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xbb7fc8
+gdjs.MiniGame1Code.eventsList0x74fa40 = function(runtimeScene) {
 
 {
 
@@ -1090,8 +1090,8 @@ gdjs.MiniGame1Code.GDPlayerObjects1.createFrom(runtimeScene.getObjects("Player")
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x68c2b0
-gdjs.MiniGame1Code.eventsList0x982db8 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x74fa40
+gdjs.MiniGame1Code.eventsList0xdcf340 = function(runtimeScene) {
 
 {
 
@@ -1215,8 +1215,8 @@ gdjs.MiniGame1Code.GDPriestHeart2Objects2.createFrom(runtimeScene.getObjects("Pr
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x982db8
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDRedKeyObjects1Objects = Hashtable.newFrom({"RedKey": gdjs.MiniGame1Code.GDRedKeyObjects1});gdjs.MiniGame1Code.eventsList0x681a78 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xdcf340
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDRedKeyObjects1Objects = Hashtable.newFrom({"RedKey": gdjs.MiniGame1Code.GDRedKeyObjects1});gdjs.MiniGame1Code.eventsList0x7e6280 = function(runtimeScene) {
 
 {
 
@@ -1241,8 +1241,8 @@ gdjs.MiniGame1Code.GDRedKeyUIObjects1.createFrom(runtimeScene.getObjects("RedKey
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x681a78
-gdjs.MiniGame1Code.eventsList0x8852f0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x7e6280
+gdjs.MiniGame1Code.eventsList0x7e5fe8 = function(runtimeScene) {
 
 {
 
@@ -1273,14 +1273,14 @@ gdjs.MiniGame1Code.GDRedKeyObjects1.createFrom(runtimeScene.getObjects("RedKey")
 }
 }
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x681a78(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x7e6280(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x8852f0
-gdjs.MiniGame1Code.eventsList0x730ad0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x7e5fe8
+gdjs.MiniGame1Code.eventsList0xbba428 = function(runtimeScene) {
 
 {
 
@@ -1323,8 +1323,8 @@ if (gdjs.MiniGame1Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x730ad0
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects2Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects3});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects3Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects3});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects2Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.eventsList0x6947c8 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xbba428
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects2Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects2Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDWallBarrierObjects2Objects = Hashtable.newFrom({"WallBarrier": gdjs.MiniGame1Code.GDWallBarrierObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects3Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects3});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects3Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects3});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects2Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.eventsList0x7e8c88 = function(runtimeScene) {
 
 {
 
@@ -1375,8 +1375,8 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisi
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x6947c8
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDBlueGemObjects2Objects = Hashtable.newFrom({"BlueGem": gdjs.MiniGame1Code.GDBlueGemObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDHealthPotionObjects1Objects = Hashtable.newFrom({"HealthPotion": gdjs.MiniGame1Code.GDHealthPotionObjects1});gdjs.MiniGame1Code.eventsList0xae4310 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x7e8c88
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDBlueGemObjects2Objects = Hashtable.newFrom({"BlueGem": gdjs.MiniGame1Code.GDBlueGemObjects2});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDHealthPotionObjects1Objects = Hashtable.newFrom({"HealthPotion": gdjs.MiniGame1Code.GDHealthPotionObjects1});gdjs.MiniGame1Code.eventsList0x68d6e8 = function(runtimeScene) {
 
 {
 
@@ -1391,8 +1391,8 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xae4310
-gdjs.MiniGame1Code.eventsList0x68e3b8 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x68d6e8
+gdjs.MiniGame1Code.eventsList0x6820e8 = function(runtimeScene) {
 
 {
 
@@ -1501,7 +1501,7 @@ gdjs.MiniGame1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 if (gdjs.MiniGame1Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x6947c8(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x7e8c88(runtimeScene);} //End of subevents
 }
 
 }
@@ -1569,14 +1569,14 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisi
 }
 }
 { //Subevents
-gdjs.MiniGame1Code.eventsList0xae4310(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x68d6e8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x68e3b8
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects4Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects4});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects4Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects4});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects5Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects5});gdjs.MiniGame1Code.eventsList0x69a3f0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x6820e8
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects4Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects4});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDSkullObjects4Objects = Hashtable.newFrom({"Skull": gdjs.MiniGame1Code.GDSkullObjects4});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPriestObjects5Objects = Hashtable.newFrom({"Priest": gdjs.MiniGame1Code.GDPriestObjects5});gdjs.MiniGame1Code.eventsList0xa81cc8 = function(runtimeScene) {
 
 {
 
@@ -1604,8 +1604,8 @@ gdjs.MiniGame1Code.GDSkullObjects5.createFrom(gdjs.MiniGame1Code.GDSkullObjects4
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x69a3f0
-gdjs.MiniGame1Code.eventsList0xce9148 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xa81cc8
+gdjs.MiniGame1Code.eventsList0xa81ae0 = function(runtimeScene) {
 
 {
 
@@ -1624,7 +1624,7 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.object.distanceTest(gd
 }if (gdjs.MiniGame1Code.condition0IsTrue_0.val) {
 
 { //Subevents: 
-gdjs.MiniGame1Code.eventsList0x69a3f0(runtimeScene);} //Subevents end.
+gdjs.MiniGame1Code.eventsList0xa81cc8(runtimeScene);} //Subevents end.
 }
 }
 
@@ -1638,8 +1638,8 @@ gdjs.MiniGame1Code.eventsList0x69a3f0(runtimeScene);} //Subevents end.
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xce9148
-gdjs.MiniGame1Code.eventsList0x936c48 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xa81ae0
+gdjs.MiniGame1Code.eventsList0x6956a0 = function(runtimeScene) {
 
 {
 
@@ -1708,7 +1708,7 @@ gdjs.MiniGame1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 if (gdjs.MiniGame1Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0xce9148(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0xa81ae0(runtimeScene);} //End of subevents
 }
 
 }
@@ -1755,8 +1755,8 @@ gdjs.MiniGame1Code.GDPriestObjects1.createFrom(runtimeScene.getObjects("Priest")
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x936c48
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPortalObjects1Objects = Hashtable.newFrom({"Portal": gdjs.MiniGame1Code.GDPortalObjects1});gdjs.MiniGame1Code.eventsList0x73a1b0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x6956a0
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.MiniGame1Code.GDPlayerObjects1});gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDPortalObjects1Objects = Hashtable.newFrom({"Portal": gdjs.MiniGame1Code.GDPortalObjects1});gdjs.MiniGame1Code.eventsList0xdcbdc8 = function(runtimeScene) {
 
 {
 
@@ -1773,8 +1773,8 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisi
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x73a1b0
-gdjs.MiniGame1Code.eventsList0x739f70 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xdcbdc8
+gdjs.MiniGame1Code.eventsList0xdcbb20 = function(runtimeScene) {
 
 {
 
@@ -1805,14 +1805,14 @@ gdjs.MiniGame1Code.GDPortalObjects1.createFrom(runtimeScene.getObjects("Portal")
 }
 }
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x73a1b0(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0xdcbdc8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x739f70
-gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects2});gdjs.MiniGame1Code.eventsList0x93a150 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xdcbb20
+gdjs.MiniGame1Code.mapOfGDgdjs_46MiniGame1Code_46GDArrowObjects2Objects = Hashtable.newFrom({"Arrow": gdjs.MiniGame1Code.GDArrowObjects2});gdjs.MiniGame1Code.eventsList0x811798 = function(runtimeScene) {
 
 {
 
@@ -2047,8 +2047,8 @@ gdjs.MiniGame1Code.GDArrowObjects3.createFrom(gdjs.MiniGame1Code.GDArrowObjects2
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x93a150
-gdjs.MiniGame1Code.eventsList0x695778 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x811798
+gdjs.MiniGame1Code.eventsList0x8115b8 = function(runtimeScene) {
 
 {
 
@@ -2070,14 +2070,14 @@ gdjs.MiniGame1Code.GDArrowObjects2.length = 0;
 }{runtimeScene.getGame().getVariables().getFromIndex(11).add(1);
 }
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x93a150(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x811798(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x695778
-gdjs.MiniGame1Code.eventsList0x678338 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x8115b8
+gdjs.MiniGame1Code.eventsList0xd6bb98 = function(runtimeScene) {
 
 {
 
@@ -2123,7 +2123,7 @@ gdjs.MiniGame1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 if (gdjs.MiniGame1Code.condition1IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x695778(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x8115b8(runtimeScene);} //End of subevents
 }
 
 }
@@ -2138,8 +2138,8 @@ gdjs.MiniGame1Code.eventsList0x695778(runtimeScene);} //End of subevents
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x678338
-gdjs.MiniGame1Code.eventsList0x6875a8 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0xd6bb98
+gdjs.MiniGame1Code.eventsList0x692708 = function(runtimeScene) {
 
 {
 
@@ -2326,8 +2326,8 @@ gdjs.MiniGame1Code.GDAmmoBarObjects2.createFrom(runtimeScene.getObjects("AmmoBar
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x6875a8
-gdjs.MiniGame1Code.eventsList0xaff4e0 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x692708
+gdjs.MiniGame1Code.eventsList0x8128b0 = function(runtimeScene) {
 
 {
 
@@ -2388,8 +2388,8 @@ gdjs.MiniGame1Code.GDPlayerObjects2.length = k;}if (gdjs.MiniGame1Code.condition
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0xaff4e0
-gdjs.MiniGame1Code.eventsList0x982480 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x8128b0
+gdjs.MiniGame1Code.eventsList0x682e40 = function(runtimeScene) {
 
 {
 
@@ -2438,8 +2438,8 @@ gdjs.MiniGame1Code.GDAdminTextObjects1.createFrom(runtimeScene.getObjects("Admin
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x982480
-gdjs.MiniGame1Code.eventsList0x932d78 = function(runtimeScene) {
+}; //End of gdjs.MiniGame1Code.eventsList0x682e40
+gdjs.MiniGame1Code.eventsList0x696d10 = function(runtimeScene) {
 
 {
 
@@ -2483,75 +2483,75 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumb
 }if (gdjs.MiniGame1Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MiniGame1Code.eventsList0x982480(runtimeScene);} //End of subevents
+gdjs.MiniGame1Code.eventsList0x682e40(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MiniGame1Code.eventsList0x932d78
+}; //End of gdjs.MiniGame1Code.eventsList0x696d10
 gdjs.MiniGame1Code.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0xae68e8(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x7f0590(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x939388(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x948aa8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x99e4a0(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xbba728(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0xc1ac98(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xa9c180(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0xacd710(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xbb7fc8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x68c2b0(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x74fa40(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x982db8(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xdcf340(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x8852f0(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x7e5fe8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x730ad0(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xbba428(runtimeScene);
 }
 
 
@@ -2565,42 +2565,42 @@ gdjs.MiniGame1Code.eventsList0x730ad0(runtimeScene);
 {
 
 
-gdjs.MiniGame1Code.eventsList0x68e3b8(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x6820e8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x936c48(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x6956a0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x739f70(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xdcbb20(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x678338(runtimeScene);
+gdjs.MiniGame1Code.eventsList0xd6bb98(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0x6875a8(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x692708(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MiniGame1Code.eventsList0xaff4e0(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x8128b0(runtimeScene);
 }
 
 
@@ -2620,7 +2620,7 @@ gdjs.MiniGame1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJust
 {
 
 
-gdjs.MiniGame1Code.eventsList0x932d78(runtimeScene);
+gdjs.MiniGame1Code.eventsList0x696d10(runtimeScene);
 }
 
 
